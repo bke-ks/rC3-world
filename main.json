@@ -57,7 +57,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/"
+                 "value":"http:\/\/baukunsterfinden.org\/de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
