@@ -57,7 +57,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"google.com"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
