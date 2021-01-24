@@ -39,7 +39,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/baukunsterfinden.org\/de\/"
+                 "value":"https:\/\/www.heise.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
