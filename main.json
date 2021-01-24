@@ -39,7 +39,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/blog.fefe.de\/"
+                 "value":"https:\/\/infragelb.de\/bke\/2d-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
