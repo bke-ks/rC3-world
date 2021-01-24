@@ -57,7 +57,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/infragelb.de\/bke-world\/index.html"
+                 "value":"http:\/\/pi.infragelb.de:61616\/"
                 }],
          "type":"tilelayer",
          "visible":true,
