@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"space.json#spaceStart"
+                 "value":"unterwelt00\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
