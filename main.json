@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/space.json"
+                 "value":"bke-ks\/rC3-world\/main\/space.json"
                 }],
          "type":"tilelayer",
          "visible":true,
