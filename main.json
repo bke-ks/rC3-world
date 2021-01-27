@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/unterwelt00\/main.json"
+                 "value":"\/unterwelt00\/main.json\/"
                 }],
          "type":"tilelayer",
          "visible":true,
