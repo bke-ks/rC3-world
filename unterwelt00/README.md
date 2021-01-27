@@ -1,3 +1,3 @@
 Visit world here:
 
-https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/flipdot/rC3-world/main/main.json
+https://play.raveadventu.re/_/global/raw.githubusercontent.com/bke-ks/rC3-world/main/main.json
