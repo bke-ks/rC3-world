@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.raveadventu.re\/_\/global\/raw.githubusercontent.com\/bke-ks\/rC3-world\/main\/unterwelt00\/main.json"
+                 "value":"\/space.json"
                 }],
          "type":"tilelayer",
          "visible":true,
