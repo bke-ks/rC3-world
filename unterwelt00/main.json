@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/infragelb.de\/bke\/unterwelt00\/"
+                 "value":"https:\/\/infragelb.de\/rundgang\/fernsteuerbare-webcam\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/infragelb.de\/bke\/unterwelt00-1\/"
+                 "value":"https:\/\/infragelb.de\/rundgang\/sense-think-act\/"
                 }],
          "type":"tilelayer",
          "visible":true,
