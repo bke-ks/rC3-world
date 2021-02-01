@@ -55,7 +55,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sound\/welcome-prog-conf.mp3"
+                 "value":"audio\/welcome-prog-conf.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
