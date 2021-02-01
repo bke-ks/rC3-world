@@ -743,19 +743,6 @@
          "tilecount":68,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":80,
-         "firstgid":18851,
-         "image":"tiles_png\/Stars\/potw1827a-2k5x2k5.png",
-         "imageheight":2544,
-         "imagewidth":2560,
-         "margin":0,
-         "name":"potw1827a-2k5x2k5",
-         "spacing":0,
-         "tilecount":6320,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
