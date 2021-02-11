@@ -68,7 +68,7 @@
          "height":128,
          "id":55,
          "name":"jitsiRoom BKE discuss foto",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
