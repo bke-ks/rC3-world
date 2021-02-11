@@ -606,7 +606,7 @@
         {
          "columns":16,
          "firstgid":7952,
-         "image":"..\/tiles_png\/structures\/rc3-mullana-colors-128.png",
+         "image":"tiles_png\/structures\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -645,7 +645,7 @@
         {
          "columns":30,
          "firstgid":10352,
-         "image":"..\/..\/..\/..\/..\/..\/Downloads\/hyptosis_tile-art-batch-1.png",
+         "image":"Downloads\/hyptosis_tile-art-batch-1.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -658,7 +658,7 @@
         {
          "columns":30,
          "firstgid":11252,
-         "image":"..\/..\/..\/..\/..\/..\/Downloads\/hyptosis_til-art-batch-2.png",
+         "image":"Downloads\/hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
