@@ -220,7 +220,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/structures\/rc3-mullana-colors-128.png",
+         "image":"tiles_png\/structures\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -233,7 +233,7 @@
         {
          "columns":16,
          "firstgid":129,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/inventory\/dk_transports.png",
+         "image":"tiles_png\/inventory\/dk_transports.png",
          "imageheight":96,
          "imagewidth":512,
          "margin":0,
@@ -335,7 +335,7 @@
         {
          "columns":16,
          "firstgid":177,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
+         "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -348,7 +348,7 @@
         {
          "columns":15,
          "firstgid":433,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles_png\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -361,7 +361,7 @@
         {
          "columns":16,
          "firstgid":2428,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/structures\/rc3-mullana-functionary.png",
+         "image":"tiles_png\/structures\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -374,7 +374,7 @@
         {
          "columns":33,
          "firstgid":2684,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/cy\/text.png",
+         "image":"tiles_png\/cy\/text.png",
          "imageheight":1056,
          "imagewidth":1056,
          "margin":0,
@@ -436,7 +436,7 @@
         {
          "columns":9,
          "firstgid":3773,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/structures\/mapUtilities.png",
+         "image":"tiles_png\/structures\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -459,7 +459,7 @@
         {
          "columns":16,
          "firstgid":3782,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/community\/flipdot\/flipdot-logo.png",
+         "image":"tiles_png\/community\/flipdot\/flipdot-logo.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -472,7 +472,7 @@
         {
          "columns":8,
          "firstgid":3910,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Bad u.A..png",
+         "image":"tiles_png\/DL\/Bad u.A..png",
          "imageheight":800,
          "imagewidth":256,
          "margin":0,
@@ -485,7 +485,7 @@
         {
          "columns":8,
          "firstgid":4110,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Boden Kacheln.png",
+         "image":"tiles_png\/DL\/Boden Kacheln.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -498,7 +498,7 @@
         {
          "columns":10,
          "firstgid":4174,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Gleise Steinbecken.png",
+         "image":"tiles_png\/DL\/Gleise Steinbecken.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -511,7 +511,7 @@
         {
          "columns":7,
          "firstgid":4274,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Kamera.png",
+         "image":"tiles_png\/DL\/Kamera.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
@@ -524,7 +524,7 @@
         {
          "columns":9,
          "firstgid":4323,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Kuechenzeug.png",
+         "image":"tiles_png\/DL\/Kuechenzeug.png",
          "imageheight":1184,
          "imagewidth":288,
          "margin":0,
@@ -537,7 +537,7 @@
         {
          "columns":64,
          "firstgid":4656,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Misc.png",
+         "image":"tiles_png\/DL\/Misc.png",
          "imageheight":1024,
          "imagewidth":2048,
          "margin":0,
@@ -550,7 +550,7 @@
         {
          "columns":16,
          "firstgid":6704,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Pflanzen.png",
+         "image":"tiles_png\/DL\/Pflanzen.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -563,7 +563,7 @@
         {
          "columns":16,
          "firstgid":6832,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Pflanzen2.png",
+         "image":"tiles_png\/DL\/Pflanzen2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -576,7 +576,7 @@
         {
          "columns":16,
          "firstgid":7088,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Strand.png",
+         "image":"tiles_png\/DL\/Strand.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -589,7 +589,7 @@
         {
          "columns":8,
          "firstgid":7344,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Wohnzimmer.png",
+         "image":"tiles_png\/DL\/Wohnzimmer.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -602,7 +602,7 @@
         {
          "columns":16,
          "firstgid":7440,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Wohnzimmer2.png",
+         "image":"tiles_png\/DL\/Wohnzimmer2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -615,7 +615,7 @@
         {
          "columns":16,
          "firstgid":7696,
-         "image":"rC3-world-main\/unterwelt02\/tiles_png\/DL\/Wohnzimmer3.png",
+         "image":"tiles_png\/DL\/Wohnzimmer3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
