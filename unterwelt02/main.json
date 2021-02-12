@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"rC3-world-main\/unterwelt02"
+         "target":"."
         }
     },
  "height":128,
@@ -628,7 +628,7 @@
         {
          "columns":16,
          "firstgid":7952,
-         "image":"rC3-world-main\/tiles_png\/structures\/rc3-mullana-colors-128.png",
+         "image":"tiles_png\/structures\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
