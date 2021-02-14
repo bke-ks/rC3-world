@@ -127,7 +127,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice6.somafm.com\/groovesalad-128-mp3"
+                 "value":"http:\/\/station.radio-rasclat.com:8443\/live"
                 }],
          "type":"tilelayer",
          "visible":true,
