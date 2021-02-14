@@ -104,7 +104,7 @@
          "height":128,
          "id":23,
          "name":"collider_layer",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":128,
